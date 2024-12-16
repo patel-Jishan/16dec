@@ -1,0 +1,34 @@
+.c1{
+	background:url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3NrOTc5MS1pbWFnZS1rd3Z1amE5Ni5qcGc.jpg") ;
+	background-repeat:no-repeat;
+	height:100vh;
+	background-position:top;
+	background-size:cover;
+	background-attachment:fixed;
+	background-blend-mode:darken;
+}
+
+.c2{
+	background:url("https://images.unsplash.com/photo-1594003715326-f6030861574e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2NlbmVyeSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA==") ;
+	background-repeat:no-repeat;
+	height:100vh;
+	background-position:top;
+	background-size:cover;
+	background-attachment:fixed;
+	background-blend-mode:darken;
+}
+
+.c3{
+	background:url("https://images.pexels.com/photos/620337/pexels-photo-620337.jpeg?cs=srgb&dl=pexels-pripicart-620337.jpg&fm=jpg") ;
+	background-repeat:no-repeat;
+	height:100vh;
+	background-position:top;
+	background-size:cover;
+	background-attachment:fixed;
+	background-blend-mode:darken;
+}
+ form{ margin:400px ;
+       margin-bottom:200px;
+       border:auto;
+	   border:5px dotted black;
+}
